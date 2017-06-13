@@ -1,0 +1,5 @@
+c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraiteTest2\bin\Debug\ClasseAbstraiteTest2.exe.config
+c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraiteTest2\bin\Debug\ClasseAbstraiteTest2.exe
+c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraiteTest2\bin\Debug\ClasseAbstraiteTest2.pdb
+c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraiteTest2\obj\Debug\ClasseAbstraiteTest2.exe
+c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraiteTest2\obj\Debug\ClasseAbstraiteTest2.pdb

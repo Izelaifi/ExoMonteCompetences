@@ -1,0 +1,6 @@
+c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraite\bin\Debug\ClasseAbstraite.exe.config
+c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraite\bin\Debug\ClasseAbstraite.exe
+c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraite\bin\Debug\ClasseAbstraite.pdb
+c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraite\obj\Debug\ClasseAbstraite.csprojResolveAssemblyReference.cache
+c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraite\obj\Debug\ClasseAbstraite.exe
+c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraite\obj\Debug\ClasseAbstraite.pdb
