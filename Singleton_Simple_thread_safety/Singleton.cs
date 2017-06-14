@@ -32,7 +32,7 @@ namespace Singleton_Simple_thread_safety
     }
 }
 
-/**
+/*
  * Cette implemntation est bonne car le thread met un verrou sur un objet partagé
  * et ensuite verifi si l'instance a été crée ou non avant de crée l'instance. 
  * le verouillage permet de s'assurer que toutes les lectures se font logiquement après aquisition 
@@ -41,4 +41,4 @@ namespace Singleton_Simple_thread_safety
  * cette implementation s'assure donc que seul un thread créera une instance. 
  * les performance seront tres touché par cette methode car un verrou est obtenu a chaque fois que
  * l'instance est requise. 
- * /
+ */

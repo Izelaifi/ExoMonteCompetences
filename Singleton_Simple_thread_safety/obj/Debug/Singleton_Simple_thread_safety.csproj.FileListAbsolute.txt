@@ -1,0 +1,5 @@
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\Singleton_Simple_thread_safety\bin\Debug\Singleton_Simple_thread_safety.exe.config
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\Singleton_Simple_thread_safety\bin\Debug\Singleton_Simple_thread_safety.exe
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\Singleton_Simple_thread_safety\bin\Debug\Singleton_Simple_thread_safety.pdb
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\Singleton_Simple_thread_safety\obj\Debug\Singleton_Simple_thread_safety.exe
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\Singleton_Simple_thread_safety\obj\Debug\Singleton_Simple_thread_safety.pdb

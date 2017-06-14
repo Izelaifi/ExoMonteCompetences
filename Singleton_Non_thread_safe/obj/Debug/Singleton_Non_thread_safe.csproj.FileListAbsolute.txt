@@ -1,0 +1,6 @@
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\Singleton_Non_thread_safe\bin\Debug\Singleton_Non_thread_safe.exe.config
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\Singleton_Non_thread_safe\bin\Debug\Singleton_Non_thread_safe.exe
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\Singleton_Non_thread_safe\bin\Debug\Singleton_Non_thread_safe.pdb
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\Singleton_Non_thread_safe\obj\Debug\Singleton_Non_thread_safe.csprojResolveAssemblyReference.cache
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\Singleton_Non_thread_safe\obj\Debug\Singleton_Non_thread_safe.exe
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\Singleton_Non_thread_safe\obj\Debug\Singleton_Non_thread_safe.pdb

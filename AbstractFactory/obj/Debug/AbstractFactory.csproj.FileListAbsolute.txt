@@ -4,3 +4,9 @@ C:\Users\ADLERE\Documents\Visual Studio 2017\Projects\ExoMonteCompetence\Abstrac
 C:\Users\ADLERE\Documents\Visual Studio 2017\Projects\ExoMonteCompetence\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
 C:\Users\ADLERE\Documents\Visual Studio 2017\Projects\ExoMonteCompetence\AbstractFactory\obj\Debug\AbstractFactory.exe
 C:\Users\ADLERE\Documents\Visual Studio 2017\Projects\ExoMonteCompetence\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\ADLERE\Desktop\Kata\ExoMonteeCompetence\AbstractFactory\obj\Debug\AbstractFactory.pdb
