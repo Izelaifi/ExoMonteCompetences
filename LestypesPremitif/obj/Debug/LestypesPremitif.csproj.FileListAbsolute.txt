@@ -1,0 +1,6 @@
+C:\Users\Ismail\Desktop\Adlere_Kata\LestypesPremitif\bin\Debug\LestypesPremitif.exe.config
+C:\Users\Ismail\Desktop\Adlere_Kata\LestypesPremitif\bin\Debug\LestypesPremitif.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\LestypesPremitif\bin\Debug\LestypesPremitif.pdb
+C:\Users\Ismail\Desktop\Adlere_Kata\LestypesPremitif\obj\Debug\LestypesPremitif.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\Adlere_Kata\LestypesPremitif\obj\Debug\LestypesPremitif.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\LestypesPremitif\obj\Debug\LestypesPremitif.pdb
