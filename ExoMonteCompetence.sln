@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.12
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseAbstraite", "ClasseAbstraite\ClasseAbstraite.csproj", "{495E8D5A-6E7A-4691-808C-566B89809DED}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{92DF52A4-FFCC-422A-A11B-0C02376482E0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryCarteMere", "AbstractFactoryCarteMere\AbstractFactoryCarteMere.csproj", "{D417E46F-7B91-46E2-8965-179107563E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQExo1", "LINQExo1\LINQExo1.csproj", "{E8C05D0C-3F58-4E7D-A413-198999BF62BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D417E46F-7B91-46E2-8965-179107563E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D417E46F-7B91-46E2-8965-179107563E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D417E46F-7B91-46E2-8965-179107563E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C05D0C-3F58-4E7D-A413-198999BF62BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C05D0C-3F58-4E7D-A413-198999BF62BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C05D0C-3F58-4E7D-A413-198999BF62BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C05D0C-3F58-4E7D-A413-198999BF62BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

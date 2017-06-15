@@ -3,3 +3,8 @@ c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseA
 c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraiteTest2\bin\Debug\ClasseAbstraiteTest2.pdb
 c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraiteTest2\obj\Debug\ClasseAbstraiteTest2.exe
 c:\users\adlere\documents\visual studio 2017\Projects\ExoMonteCompetence\ClasseAbstraiteTest2\obj\Debug\ClasseAbstraiteTest2.pdb
+C:\Users\Ismail\Desktop\Adlere_Kata\ClasseAbstraiteTest2\bin\Debug\ClasseAbstraiteTest2.exe.config
+C:\Users\Ismail\Desktop\Adlere_Kata\ClasseAbstraiteTest2\bin\Debug\ClasseAbstraiteTest2.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\ClasseAbstraiteTest2\bin\Debug\ClasseAbstraiteTest2.pdb
+C:\Users\Ismail\Desktop\Adlere_Kata\ClasseAbstraiteTest2\obj\Debug\ClasseAbstraiteTest2.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\ClasseAbstraiteTest2\obj\Debug\ClasseAbstraiteTest2.pdb

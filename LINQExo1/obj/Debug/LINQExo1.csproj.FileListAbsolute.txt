@@ -1,0 +1,6 @@
+C:\Users\Ismail\Desktop\Adlere_Kata\LINQExo1\obj\Debug\LINQExo1.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\Adlere_Kata\LINQExo1\bin\Debug\LINQExo1.exe.config
+C:\Users\Ismail\Desktop\Adlere_Kata\LINQExo1\bin\Debug\LINQExo1.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\LINQExo1\bin\Debug\LINQExo1.pdb
+C:\Users\Ismail\Desktop\Adlere_Kata\LINQExo1\obj\Debug\LINQExo1.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\LINQExo1\obj\Debug\LINQExo1.pdb

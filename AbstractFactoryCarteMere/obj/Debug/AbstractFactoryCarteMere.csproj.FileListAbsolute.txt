@@ -4,3 +4,9 @@ C:\Users\ADLERE\Documents\Visual Studio 2017\Projects\ExoMonteCompetence\Abstrac
 C:\Users\ADLERE\Documents\Visual Studio 2017\Projects\ExoMonteCompetence\AbstractFactoryCarteMere\obj\Debug\AbstractFactoryCarteMere.csprojResolveAssemblyReference.cache
 C:\Users\ADLERE\Documents\Visual Studio 2017\Projects\ExoMonteCompetence\AbstractFactoryCarteMere\obj\Debug\AbstractFactoryCarteMere.exe
 C:\Users\ADLERE\Documents\Visual Studio 2017\Projects\ExoMonteCompetence\AbstractFactoryCarteMere\obj\Debug\AbstractFactoryCarteMere.pdb
+C:\Users\Ismail\Desktop\Adlere_Kata\AbstractFactoryCarteMere\bin\Debug\AbstractFactoryCarteMere.exe.config
+C:\Users\Ismail\Desktop\Adlere_Kata\AbstractFactoryCarteMere\bin\Debug\AbstractFactoryCarteMere.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\AbstractFactoryCarteMere\bin\Debug\AbstractFactoryCarteMere.pdb
+C:\Users\Ismail\Desktop\Adlere_Kata\AbstractFactoryCarteMere\obj\Debug\AbstractFactoryCarteMere.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\Adlere_Kata\AbstractFactoryCarteMere\obj\Debug\AbstractFactoryCarteMere.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\AbstractFactoryCarteMere\obj\Debug\AbstractFactoryCarteMere.pdb
