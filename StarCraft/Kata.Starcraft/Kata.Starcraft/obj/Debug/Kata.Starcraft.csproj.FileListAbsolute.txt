@@ -1,0 +1,11 @@
+C:\Users\Katas\Documents\Katas\C#\Kata.Starcraft\Kata.Starcraft\bin\Debug\Kata.Starcraft.exe.config
+C:\Users\Katas\Documents\Katas\C#\Kata.Starcraft\Kata.Starcraft\bin\Debug\Kata.Starcraft.exe
+C:\Users\Katas\Documents\Katas\C#\Kata.Starcraft\Kata.Starcraft\bin\Debug\Kata.Starcraft.pdb
+C:\Users\Katas\Documents\Katas\C#\Kata.Starcraft\Kata.Starcraft\obj\Debug\Kata.Starcraft.exe
+C:\Users\Katas\Documents\Katas\C#\Kata.Starcraft\Kata.Starcraft\obj\Debug\Kata.Starcraft.pdb
+C:\Users\Ismail\Desktop\Adlere_Kata\StarCraft\Kata.Starcraft\Kata.Starcraft\bin\Debug\Kata.Starcraft.exe.config
+C:\Users\Ismail\Desktop\Adlere_Kata\StarCraft\Kata.Starcraft\Kata.Starcraft\bin\Debug\Kata.Starcraft.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\StarCraft\Kata.Starcraft\Kata.Starcraft\bin\Debug\Kata.Starcraft.pdb
+C:\Users\Ismail\Desktop\Adlere_Kata\StarCraft\Kata.Starcraft\Kata.Starcraft\obj\Debug\Kata.Starcraft.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\Adlere_Kata\StarCraft\Kata.Starcraft\Kata.Starcraft\obj\Debug\Kata.Starcraft.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\StarCraft\Kata.Starcraft\Kata.Starcraft\obj\Debug\Kata.Starcraft.pdb

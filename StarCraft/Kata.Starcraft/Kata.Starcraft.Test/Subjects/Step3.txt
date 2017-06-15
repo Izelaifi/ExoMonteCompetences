@@ -1,0 +1,42 @@
+﻿Bonjour à toi Jim Raynor,
+
+Bon, il est temps de mettre de l'ordre dans les troupes. On commence ?
+Pour commencer, tu as des tests (dans le projet "Kata.Starcraft.Test"). Quoi qu'il se passe, ils doivent tous passer. TOUS !
+Sinon tu risques d'avoir Nova qui va te lancer une Nuke. Et t'as pas envie de recevoir une Nuke tel un pauvre Zergling hein ?
+Cela implique que tu peux modifier tout le reste du moment que les tests passent.
+
+Le précédent commandant a mis une heure pour tout faire... Mais nous ce que l'on veut, c'est que le travail soit bien fait.
+Tu peux donc très bien mordre un peu sur le temps.
+
+C'est parti ?
+
+---- STEP ONE ----
+
+Bon, en tant qu'humain qui se respecte, on vas commencer par faire un marine !
+Un marine est une petite créature qui sert de chair à canon qui possède 50 HP et une attaque de 7. Elle se déplace à une vitesse 
+de 3.
+Un marine, comme dit précedemment, ça sert de chair à canon. Donc ça prend des dégats (et oui, malheureusement)
+et des fois ça meurt. Quand un marine meurt, il lâche un dernier "ARRRRRRRRRRRRRGH" (Ben ouais, comme tout bon soldat).
+
+Faite en sorte que l'ensemble des tests de l'étape 1 passe.
+
+---- STEP TWO ----
+
+Bon, parce que les marines c'est cool mais pas assez, il est temps de penser à faire autre chose. Vous connaissez les Hellions ? 
+Ces voitures du futur avec un lance flame sur la tête ? Juste dingue...Alors c'est parti ! Un helion possède les caractéristiques 
+suivantes :
+ - 45 points de vie ;
+ - 14 points d'attaque ;
+ - 18 points de vitesse ;
+Et quand cette unité est détruite, elle le fait avec classe dans un grand "Bouuuuuuuuuuum" !
+
+Faites en sorte que l'ensemble des tests de l'étape 2 ainsi que les précédents passent.
+
+---- STEP THREE ----
+
+Il est temps d'améliorer nos unités, Jim ! On a reçu des armures pour nos marines. Maintenant quand ils sont équipés d'armure,
+les soldats prennent les dégats de base divisés par deux. 
+
+Faites en sorte que l'ensemble des tests de l'étape 3 ainsi que les précédents passent.
+
+
