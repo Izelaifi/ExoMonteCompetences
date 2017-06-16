@@ -1,0 +1,6 @@
+C:\Users\Ismail\Desktop\Adlere_Kata\Ennum\bin\Debug\Ennum.exe.config
+C:\Users\Ismail\Desktop\Adlere_Kata\Ennum\bin\Debug\Ennum.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\Ennum\bin\Debug\Ennum.pdb
+C:\Users\Ismail\Desktop\Adlere_Kata\Ennum\obj\Debug\Ennum.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\Adlere_Kata\Ennum\obj\Debug\Ennum.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\Ennum\obj\Debug\Ennum.pdb

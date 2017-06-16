@@ -5,6 +5,16 @@ C:\Users\Katas\Documents\Katas\C#\Kata.Starcraft\Kata.Starcraft.Test\obj\Debug\K
 C:\Users\Katas\Documents\Katas\C#\Kata.Starcraft\Kata.Starcraft.Test\bin\Debug\Kata.Starcraft.exe
 C:\Users\Katas\Documents\Katas\C#\Kata.Starcraft\Kata.Starcraft.Test\bin\Debug\Kata.Starcraft.pdb
 C:\Users\Katas\Documents\Katas\C#\Kata.Starcraft\Kata.Starcraft.Test\obj\Debug\Kata.Starcraft.Test.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\Kata.Starcraft\Kata.Starcraft.Test\bin\Debug\Kata.Starcraft.Test.dll
+C:\Users\Ismail\Desktop\Kata.Starcraft\Kata.Starcraft.Test\bin\Debug\Kata.Starcraft.Test.pdb
+C:\Users\Ismail\Desktop\Kata.Starcraft\Kata.Starcraft.Test\bin\Debug\Kata.Starcraft.exe
+C:\Users\Ismail\Desktop\Kata.Starcraft\Kata.Starcraft.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ismail\Desktop\Kata.Starcraft\Kata.Starcraft.Test\bin\Debug\Kata.Starcraft.pdb
+C:\Users\Ismail\Desktop\Kata.Starcraft\Kata.Starcraft.Test\bin\Debug\Kata.Starcraft.exe.config
+C:\Users\Ismail\Desktop\Kata.Starcraft\Kata.Starcraft.Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Ismail\Desktop\Kata.Starcraft\Kata.Starcraft.Test\obj\Debug\Kata.Starcraft.Test.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\Kata.Starcraft\Kata.Starcraft.Test\obj\Debug\Kata.Starcraft.Test.dll
+C:\Users\Ismail\Desktop\Kata.Starcraft\Kata.Starcraft.Test\obj\Debug\Kata.Starcraft.Test.pdb
 C:\Users\Ismail\Desktop\Adlere_Kata\StarCraft\Kata.Starcraft\Kata.Starcraft.Test\bin\Debug\Kata.Starcraft.Test.dll
 C:\Users\Ismail\Desktop\Adlere_Kata\StarCraft\Kata.Starcraft\Kata.Starcraft.Test\bin\Debug\Kata.Starcraft.Test.pdb
 C:\Users\Ismail\Desktop\Adlere_Kata\StarCraft\Kata.Starcraft\Kata.Starcraft.Test\bin\Debug\Kata.Starcraft.exe
