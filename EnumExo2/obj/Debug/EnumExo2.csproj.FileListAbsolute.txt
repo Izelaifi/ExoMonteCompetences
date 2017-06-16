@@ -1,0 +1,6 @@
+C:\Users\Ismail\Desktop\Adlere_Kata\EnumExo2\obj\Debug\EnumExo2.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\Adlere_Kata\EnumExo2\bin\Debug\EnumExo2.exe.config
+C:\Users\Ismail\Desktop\Adlere_Kata\EnumExo2\bin\Debug\EnumExo2.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\EnumExo2\bin\Debug\EnumExo2.pdb
+C:\Users\Ismail\Desktop\Adlere_Kata\EnumExo2\obj\Debug\EnumExo2.exe
+C:\Users\Ismail\Desktop\Adlere_Kata\EnumExo2\obj\Debug\EnumExo2.pdb

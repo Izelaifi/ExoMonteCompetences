@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LestypesPremitif", "Lestype
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ennum", "Ennum\Ennum.csproj", "{F13220F9-FF2D-45E9-8D2C-A7DAFC519A79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumExo2", "EnumExo2\EnumExo2.csproj", "{DBF4BFCE-5A8D-45FE-A083-0AF362FBA856}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F13220F9-FF2D-45E9-8D2C-A7DAFC519A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F13220F9-FF2D-45E9-8D2C-A7DAFC519A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F13220F9-FF2D-45E9-8D2C-A7DAFC519A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF4BFCE-5A8D-45FE-A083-0AF362FBA856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF4BFCE-5A8D-45FE-A083-0AF362FBA856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF4BFCE-5A8D-45FE-A083-0AF362FBA856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF4BFCE-5A8D-45FE-A083-0AF362FBA856}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
